@@ -1,0 +1,6 @@
+global:
+  application_name: shop_app_cicd
+  default_region: us-east-1
+  environment_name: Shopappcicd-env
+  solution_stack: 64bit Amazon Linux 2 v3.5.10 running Python 3.10
+  workspace_type: Application
